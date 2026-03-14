@@ -1,0 +1,17 @@
+#insights for debug.py
+
+the first error occured due to missing syntax
+the second error occure due to wrong variable name
+
+#System reflections:
+1️⃣ What is program state?
+=> the current positions of a program like variable values, structure of a data, contents of a file etc
+
+2️⃣ Why do most bugs happen?
+=> Most bugs can occure due to syntax error, wrong variable names, logical error etc
+
+3️⃣ Why is understanding execution order critical?
+=> Because programs runs in order if error occurs and we faild to understand the execution order then it will be harder to find the bugs
+
+4️⃣ When debugging, what should you inspect first?
+=> check the state of a program, check if the program is in wrong state transitions. 
